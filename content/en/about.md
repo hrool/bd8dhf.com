@@ -14,7 +14,7 @@ If you wish to exchange QSL cards, please send yours first, and I will promptly 
 
 {{< highlight text "linenos=false" >}}
 何庆 BD8DHF 18613217067
-华府大道三段869号 万锦城
+华府大道三段 869 号 万锦城
 四川省成都市双流区 610213
 Chengdu City, Sichuan Province
 P.R. CHINA (中国)
@@ -25,6 +25,6 @@ If you cannot print Chinese characters, please use the following address:
 {{< highlight text "linenos=false" >}}
 He Qing BD8DHF 18613217067  
 Wanjincheng, No. 869, Section 3 of Huafu Avenue  
-Chengdu City, Sichuan Province
+Shuangliu District, Chengdu City, Sichuan Province, Post Code: 610213
 P.R. CHINA
 {{< /highlight >}}
