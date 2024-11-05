@@ -60,6 +60,11 @@ languages:
           yearStart: 2024 # Optional
           # yearEnd: 2024 # Optional, default value: current year
           author: BD8DHF
+          icp: <a style="margin-left:20px" href="https://beian.miit.gov.cn/">蜀ICP备18031429号-3</a>
+          gongan: |
+            <img style="width:18px" src="/备案图标.png">
+            <a href="https://beian.mps.gov.cn/#/query/webSearch?code=51012202001921" rel="noreferrer" target="_blank">川公网安备51012202001921</a>
+
   zh-CN:
     hasCJKLanguage: true
     contentDir: content/zh-CN
@@ -93,3 +98,7 @@ languages:
           yearStart: 2024
           # yearEnd: 2024
           author: BD8DHF
+          icp: <a style="margin-left:20px" href="https://beian.miit.gov.cn/">蜀ICP备18031429号-3</a>
+          gongan: |
+            <img style="width:18px" src="/备案图标.png">
+            <a href="https://beian.mps.gov.cn/#/query/webSearch?code=51012202001921" rel="noreferrer" target="_blank">川公网安备51012202001921</a>
