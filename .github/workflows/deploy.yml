@@ -1,3 +1,5 @@
+name: Deploy to Aliyun ECS via SSH
+
 on:
   push:
     branches:
@@ -27,6 +29,11 @@ jobs:
         uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.SSH_KEY }}
+
+      - name: Add SSH known hosts
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_KNOWN_HOSTS }}" >> ~/.ssh/known_hosts
 
       - name: Copy files via rsync
         run: |
