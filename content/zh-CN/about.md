@@ -8,7 +8,7 @@ slug: a
 
 我还是一名DevOps工程师，并热衷于骑行、登山等户外探险活动。2012年，曾从成都出发，骑行两千多公里到达拉萨。
 
-通过 `GridTracker` 实时地将日志上传至 [wavelog.bd8dhf.com](http://wavelog.bd8dhf.com)，12 小时内会自动同步到 LOTW、QRZ、eQSL.cc、ClubLog、HRDLOG.net。如果发现日志超过24小时未确认，请直接联系我。
+通过 `GridTracker` 将日志实时上传至`wavelog`，12 小时内会自动同步到`LOTW`, `QRZ`, `eQSL.cc`, `ClubLog`, `HRDLOG.net`。如发现日志超过24小时未确认，请直接联系我。
 
 **纸质卡片必回**
 

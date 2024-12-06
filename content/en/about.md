@@ -8,7 +8,7 @@ This is BD8DHF, an amateur radio enthusiast from Chengdu, Sichuan, China. Since 
 
 I am also a DevOps engineer and an avid fan of outdoor activities such as cycling and mountaineering. In 2012, cycling over two thousand kilometers from Chengdu to Lhasa. 
 
-Upload QSO logs nearly in real-time to [wavelog.bd8dhf.com](http://wavelog.bd8dhf.com) via `GridTracker`, auto-sync to LOTW, QRZ, eQSL.cc, ClubLog, HRDLOG.net within 12 hours. If your QSO is not confirmed within 24 hours, please contact me directly.
+Upload QSO logs to `wavelog` via `GridTracker`, auto-sync to `LOTW`, `QRZ`, `eQSL.cc`, `ClubLog`, `HRDLOG.net`, within 12 hours. If your QSO is not confirmed within 24 hours, please contact me.
 
 **Paper QSL cards 100% return** 
 
