@@ -1,16 +1,16 @@
 ---
 title: Contact Me
-date: 2024-10-30T23:14:15+08:00
+date: 2024-12-06T23:14:15+08:00
 slug: a
 ---
 
-This is BD8DHF, an amateur radio enthusiast from Chengdu, Sichuan, China. Since 2023, I have been using this callsign for communication. In addition to my passion for radio communications, I am also a DevOps engineer and an avid fan of outdoor activities such as cycling and mountaineering. Notably, in 2012, I completed an unforgettable journey, cycling over two thousand kilometers from Chengdu to Lhasa. This was not only a test of physical and mental endurance but also a spiritual voyage.
+This is BD8DHF, an amateur radio enthusiast from Chengdu, Sichuan, China. Since 2023, I have been using this callsign for communication. 
 
-Since 2024, I primarily operate on the 15m, 12m, and 10m bands using FT8 mode.
+I am also a DevOps engineer and an avid fan of outdoor activities such as cycling and mountaineering. In 2012, cycling over two thousand kilometers from Chengdu to Lhasa. 
 
-Regarding log confirmations, I upload logs almost in real-time to [wavelog.bd8dhf.com](http://wavelog.bd8dhf.com) through GridTracker. I have a scheduled task set up to automatically synchronize logs to LOTW, QRZ, eQSL.cc, ClubLog, and HRDLOG.net within 12 hours. If you find that your log has not been confirmed for a long time, it might be due to incomplete QSO information. Please send me the relevant log, and once received, I will manually update the log immediately.
+Upload QSO logs nearly in real-time to [wavelog.bd8dhf.com](http://wavelog.bd8dhf.com) via `GridTracker`, auto-sync to LOTW, QRZ, eQSL.cc, ClubLog, HRDLOG.net within 12 hours. If your QSO is not confirmed within 24 hours, please contact me directly.
 
-If you wish to exchange QSL cards, please send yours first, and I will promptly return a card upon receipt. To ensure the successful delivery of the paper QSL card, please include my mobile phone number after the recipient's address to facilitate postal delivery.
+**Paper QSL cards 100% return** 
 
 **My mailing address for direct paper QSL card:**
 
@@ -18,8 +18,7 @@ If you wish to exchange QSL cards, please send yours first, and I will promptly 
 何庆 BD8DHF 18613217067
 华府大道三段869号万锦城
 四川省成都市双流区 610213
-Chengdu City, Sichuan Province
-P.R. CHINA (中国)
+P.R. China (中国)
 {{< /highlight >}}
 
 If you cannot print Chinese characters, please use the following address:
@@ -27,6 +26,6 @@ If you cannot print Chinese characters, please use the following address:
 {{< highlight text "linenos=false" >}}
 He Qing BD8DHF 18613217067
 Wanjincheng, No. 869, Section 3 of Huafu Avenue
-Shuangliu District, Chengdu City, Sichuan Province, Post Code: 610213
-P.R. CHINA
+Shuangliu District, Chengdu City, Sichuan, Post Code: 610213
+P.R. China
 {{< /highlight >}}
