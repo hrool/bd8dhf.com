@@ -1,6 +1,6 @@
 ---
 title: 联系我
-date: 2024-12-06T23:14:15+08:00
+date: 2024-12-17T23:14:15+08:00
 slug: a
 ---
 
@@ -8,7 +8,7 @@ slug: a
 
 我还是一名DevOps工程师，并热衷于骑行、登山等户外探险活动。2012年，曾从成都出发，骑行两千多公里到达拉萨。
 
-通过 `GridTracker` 将日志实时上传至`wavelog`，12 小时内会自动同步到`LOTW`, `QRZ`, `eQSL.cc`, `ClubLog`, `HRDLOG.net`。如发现日志超过24小时未确认，请直接联系我。
+QSO日志通过 `GridTracker` 实时上传至`wavelog`，然后自动同步到`LOTW`, `QRZ`, `eQSL.cc`, `ClubLog`, `HRDLOG.net`, `HamCQ`等平台。如发现QSO日志长期未确认，请直接联系我。
 
 **纸质卡片必回**
 
