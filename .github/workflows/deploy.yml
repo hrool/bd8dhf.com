@@ -1,5 +1,4 @@
-name: Deploy to Aliyun ECS via SSH
-
+name: Deploy to Aliyun ECS via SSH and AWS S3
 on:
   push:
     branches:
@@ -40,4 +39,15 @@ jobs:
           rsync -avz --delete public/ root@bd8dhf.com:/var/www/bd8dhf/
           ssh root@bd8dhf.com 'chown -R www-data:www-data /var/www/bd8dhf/'
           ssh root@bd8dhf.com 'systemctl restart nginx'
-   
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ap-east-1  
+
+      - name: Sync files to S3
+        run: |
+          aws s3 sync public/ s3://bd8dhf-com/ --delete 
+          aws cloudfront create-invalidation --distribution-id E3CLYY8YVHNJQ4 --paths "/*"
