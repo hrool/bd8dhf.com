@@ -10,7 +10,7 @@ slug: a
 
 QSO日志通过 `GridTracker` 实时上传至`wavelog`，然后自动同步到`LOTW`, `QRZ`, `eQSL.cc`, `ClubLog`, `HRDLOG.net`, `HamCQ`等平台。如发现QSO日志长期未确认，请直接联系我。
 
-**纸质卡片必回**
+**纸质卡片100%必回**
 
 **我的邮寄地址:**
 {{< highlight text "linenos=false" >}}
