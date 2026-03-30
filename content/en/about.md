@@ -15,17 +15,8 @@ Upload QSO logs to `wavelog` via `GridTracker`, auto-syncing to `LOTW`, `QRZ`, `
 **My mailing address for direct paper QSL card:**
 
 {{< highlight text "linenos=false" >}}
-何庆 BD8DHF 18613217067
-华府大道三段869号万锦城
-四川省成都市双流区 610213
-P.R. China (中国)
-{{< /highlight >}}
-
-If you cannot print Chinese characters, please use the following address:
-
-{{< highlight text "linenos=false" >}}
-He Qing BD8DHF 18613217067
-Wanjincheng, No. 869, Section 3 of Huafu Avenue
-Shuangliu District, Chengdu City, Sichuan, Post Code: 610213
-P.R. China
+BD8DHF
+P.O. Box 399-5
+201399 SHANGHAI
+P.R.CHINA. 021-58223996
 {{< /highlight >}}
