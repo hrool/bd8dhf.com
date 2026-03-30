@@ -32,7 +32,7 @@ jobs:
       - name: Add SSH known hosts
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_KNOWN_HOSTS }}" >> ~/.ssh/known_hosts
+          ssh-keyscan bd8dhf.com >> ~/.ssh/known_hosts
 
       - name: Copy files via rsync
         run: |
