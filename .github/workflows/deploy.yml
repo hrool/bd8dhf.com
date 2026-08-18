@@ -51,15 +51,3 @@ jobs:
         run: |
           echo "Syncing to Aliyun OSS Bucket A..."
           ossutil sync public/ oss://bd8dhf/ --force
-
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ap-east-1  
-
-      - name: Sync files to S3
-        run: |
-          aws s3 sync public/ s3://bd8dhf-com/ --delete 
-          aws cloudfront create-invalidation --distribution-id E3CLYY8YVHNJQ4 --paths "/*"
